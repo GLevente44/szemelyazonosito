@@ -1,0 +1,7 @@
+C:\Users\gecsel\Gitwork\szemelyazonosito\bin\Debug\szemelyazonosito.exe.config
+C:\Users\gecsel\Gitwork\szemelyazonosito\bin\Debug\szemelyazonosito.exe
+C:\Users\gecsel\Gitwork\szemelyazonosito\bin\Debug\szemelyazonosito.pdb
+C:\Users\gecsel\Gitwork\szemelyazonosito\obj\Debug\szemelyazonosito.csproj.AssemblyReference.cache
+C:\Users\gecsel\Gitwork\szemelyazonosito\obj\Debug\szemelyazonosito.csproj.CoreCompileInputs.cache
+C:\Users\gecsel\Gitwork\szemelyazonosito\obj\Debug\szemelyazonosito.exe
+C:\Users\gecsel\Gitwork\szemelyazonosito\obj\Debug\szemelyazonosito.pdb
